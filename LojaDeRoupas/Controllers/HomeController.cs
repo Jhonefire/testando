@@ -1,6 +1,9 @@
-using LojaDeRoupas.Models;
+
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using LojaDeRoupas.Models;
+using LojaDeRoupas.Models.ViewModels;
+
 
 namespace LojaDeRoupas.Controllers
 {
