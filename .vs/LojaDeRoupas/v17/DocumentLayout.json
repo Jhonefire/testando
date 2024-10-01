@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F3B73AC-CCCB-4806-BE01-80F3BF9C0614}|LojaDeRoupas\\LojaDeRoupas.csproj|c:\\users\\pichau\\source\\repos\\lojaderoupas\\lojaderoupas\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6F3B73AC-CCCB-4806-BE01-80F3BF9C0614}|LojaDeRoupas\\LojaDeRoupas.csproj|solutionrelative:lojaderoupas\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F3B73AC-CCCB-4806-BE01-80F3BF9C0614}|LojaDeRoupas\\LojaDeRoupas.csproj|c:\\users\\pichau\\source\\repos\\lojaderoupas\\lojaderoupas\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F3B73AC-CCCB-4806-BE01-80F3BF9C0614}|LojaDeRoupas\\LojaDeRoupas.csproj|solutionrelative:lojaderoupas\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F3B73AC-CCCB-4806-BE01-80F3BF9C0614}|LojaDeRoupas\\LojaDeRoupas.csproj|c:\\users\\pichau\\source\\repos\\lojaderoupas\\lojaderoupas\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F3B73AC-CCCB-4806-BE01-80F3BF9C0614}|LojaDeRoupas\\LojaDeRoupas.csproj|solutionrelative:lojaderoupas\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -39,32 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\LojaDeRoupas\\Views\\Departments\\Index.cshtml",
-              "RelativeDocumentMoniker": "LojaDeRoupas\\Views\\Departments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\LojaDeRoupas\\Views\\Departments\\Index.cshtml",
-              "RelativeToolTip": "LojaDeRoupas\\Views\\Departments\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T19:03:32.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\LojaDeRoupas\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "LojaDeRoupas\\Views\\Shared\\Error.cshtml",
               "ToolTip": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\LojaDeRoupas\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "LojaDeRoupas\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-01T18:57:55.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\LojaDeRoupas\\Models\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "LojaDeRoupas\\Models\\ViewModels\\ErrorViewModel.cs",
@@ -72,25 +51,11 @@
               "RelativeToolTip": "LojaDeRoupas\\Models\\ViewModels\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:48:56.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T18:48:56.148Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\LojaDeRoupas\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "LojaDeRoupas\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\LojaDeRoupas\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "LojaDeRoupas\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:30:24.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\LojaDeRoupas\\Models\\Department.cs",
               "RelativeDocumentMoniker": "LojaDeRoupas\\Models\\Department.cs",
@@ -98,12 +63,11 @@
               "RelativeToolTip": "LojaDeRoupas\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:26:46.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T18:26:46.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\LojaDeRoupas\\LojaDeRoupas\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LojaDeRoupas\\Controllers\\HomeController.cs",
@@ -111,8 +75,7 @@
               "RelativeToolTip": "LojaDeRoupas\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:25:18.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T18:25:18.682Z"
             }
           ]
         }
