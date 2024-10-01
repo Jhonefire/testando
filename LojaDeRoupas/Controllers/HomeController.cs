@@ -15,12 +15,14 @@ namespace LojaDeRoupas.Controllers
 
         public IActionResult Index()
         {
+            ViewData["message"] = "Sua aplicação description page";
             return View();
         }
 
         public IActionResult Privacy()
         {
-            return View();
+            ViewData["message"] = "Sua aplicação description page"
+;            return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
